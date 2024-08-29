@@ -1,0 +1,6 @@
+[submodule "allo-maalem-backend"]
+	path = allo-maalem-backend
+	url = https://github.com/mrabet2002/allo-maalam-backend
+[submodule "allo-maalem-frontend"]
+	path = allo-maalem-frontend
+	url = https://github.com/mrabet2002/allo-maalam-frontend
